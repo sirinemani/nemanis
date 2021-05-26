@@ -10,7 +10,7 @@ public class Hello{
 	
 		System.out.println("Srinidhi Nemani");
 		System.out.println("Hello.java");
-		System.out.println("This program prints stuff");
+		System.out.println("This program prints out information about the user and course");
 		System.out.println("5/25/2021");
 		System.out.println("CMSC 225");
 		System.out.println();
