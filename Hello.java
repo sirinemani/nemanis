@@ -3,7 +3,7 @@
 ***********************************************
 *Srinidhi Nemani
 *5/25/2021
-*CMSC 255
+*CMSC 255 and C01
 ************************************************/
 public class Hello{
 	public static void main(String[] args) {
